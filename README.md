@@ -4,7 +4,19 @@
 Proyecto realizado por Estudiantes de Ingenieria Multimedia de la universidad San Buenaventura sede Bogotá.
 
 
-## Authors
+## Desarrollado Por
 
-- Semillero Gamedev USBBOG
+- [@Vacuumgentleman](https://github.com/Vacuumgentleman)
+- [@Taknof](https://github.com/TakNof)
+- [@Sebastian1307](https://github.com/Sebastian1307)
+-Inserte a sergio y al resto aqui xd
 
+## Preguntas frecuentes
+
+#### Que es esto?
+
+Ni nosotros sabemos
+
+#### Se va a acabar?
+
+Sabra Dios
