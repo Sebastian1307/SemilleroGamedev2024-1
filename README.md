@@ -1,3 +1,10 @@
-# SemilleroGamedev2024-1
 
- hey muy buenas a todos guapisimos aqui vegetta777 en un gemplay en directo de como hacer un juego
+# Semillero GameDev 2024-1
+
+Proyecto realizado por Estudiantes de Ingenieria Multimedia de la universidad San Buenaventura sede Bogotá.
+
+
+## Authors
+
+- Semillero Gamedev USBBOG
+
